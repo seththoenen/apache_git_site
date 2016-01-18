@@ -1,0 +1,7 @@
+name 'apache_git_site'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures apache_git_site'
+long_description 'Installs/Configures apache_git_site'
+version '0.1.0'
