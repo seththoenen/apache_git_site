@@ -71,7 +71,7 @@ end
 
 # Pull down on GitHub repo
 git '/var/www/html' do
-  repository 'https://github.com/mostateresnet/resnet.missouristate.edu.git'
+  repository "#{node['repo']}"
   action :sync
 end
 
