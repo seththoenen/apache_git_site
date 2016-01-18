@@ -1,6 +1,6 @@
 # apache_git_site
 
-This is a <a href = "https://chef.io"<a>Chef</a> cookbook that runs on CentOS 7.1. 
+This is a <a href = "https://chef.io" target="_blank"<a>Chef</a> cookbook that runs on CentOS 7.1. 
 
 The cookbook does the following:
 <ul>
