@@ -7,5 +7,5 @@ The cookbook does the following:
   <li>Enables necessary services: networking.service; sshd.service; firewalld.service; httpd.service</li>
   <li>Adds firewall entries for necessary services: http; ssh</li>
   <li>Installs the following: Apache, PHP, git</li>
-  <li>Pulls down from a user specified repository listed in the default attributes file.</li>
+  <li>Clones a user specified git repository listed in the default attributes file.</li>
 </ul>
